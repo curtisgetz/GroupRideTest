@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_create_ride"
+            android:title="@string/create_ride" />
+
+        <item
+            android:id="@+id/nav_upcoming_rides"
+            android:title="@string/your_upcoming_rides" />
+
+        <item
+            android:id="@+id/nav_friends"
+            android:title="@string/friends" />
+
+        <item
+            android:id="@+id/nav_chat"
+            android:title="@string/chat" />
+
+        <item
+            android:id="@+id/sign_in_sign_out"
+            android:title="@string/sign_in"/>
+    </group>
+
+</menu>

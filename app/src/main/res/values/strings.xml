@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GroupRideTest</string>
+    <string name="kick_stands_up">Kick Stands Up!</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+    <string name="pref_group1_key" translatable="false">pref_group1</string>
+    <string name="pref_group2_key" translatable="false">pref_group2</string>
+    <string name="pref_group3_key" translatable="false">pref_group3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyDXFeOqyuWp-j9TQjagcozvzMwLONHYE0Q</string>
+    <string name="friends">Friends</string>
+    <string name="your_upcoming_rides">Your Upcoming Rides</string>
+    <string name="chat">Chat</string>
+    <string name="create_ride">Create Ride</string>
+    <string name="not_logged_in">Not logged in</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+
+</resources>
